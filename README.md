@@ -15,9 +15,11 @@
   <a href = "mailto: carlos.vpereira@al.infnet.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-vin%C3%ADcius-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<div align = "center">
 
-  [![Cvinicius-7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cvinicius-7&show_icons=true&theme=blue-green)](https://github.com/Cvinicius-7/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cvinicius-7&theme=blue-green)](https://github.com/Cvinicius-7/github-readme-stats)
-  
+  <div align="center">  
+  <img width="51%" height="230px" src="https://github-readme-stats.vercel.app/api?username=Cvinicius-7&theme=blue-green&hide_border=true&bg_color=0d1117&show_icons=true&count_private=true" /> 
+  <img width="48%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cvinicius-7&theme=blue-green&hide_border=true&bg_color=0d1117" />
 </div>
+
+
+
